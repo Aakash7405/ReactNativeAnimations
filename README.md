@@ -7,9 +7,11 @@ Welcome to the React Native Animations repository! 🚀 This Repository demonstr
 ## 🛠️ Technologies Used
 * <b>React Native</b>: A framework for building native apps using React.
 * <b>Animated Library</b>: Reanimated A powerful library for creating smooth & complex animations in React Native.
+## Videos 
 
 ## 📚 Learn More
 * <a href='https://reactnative.dev/' alt='documentation link' > React Native Documentation</a>
 * <a href='https://docs.swmansion.com/react-native-reanimated/' alt='library link'>Reanimated Library</a>
 ## 👥 Contribution
 Contributions are welcome! If you have any cool animations you'd like to add, feel free to open a pull request.
+
